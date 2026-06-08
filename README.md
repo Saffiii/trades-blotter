@@ -44,16 +44,23 @@ regardless of dataset size.
 - Live P&L and position tracking
 - WebSocket reconnection with exponential backoff
 
+## Screenshot
+*Coming soon — project in active development*
+
 ## Running Locally
 
 **Frontend**
+```bash
 cd client
 npm install
 npm start
+```
 
 **Backend**
+```bash
 cd server
 mvn spring-boot:run
+```
 
 ## Design Decisions
 
